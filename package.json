@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmerAygunn/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Ömer Aygün",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmerAygunn/PCAT/issues"
+  },
+  "homepage": "https://github.com/OmerAygunn/PCAT#readme",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
